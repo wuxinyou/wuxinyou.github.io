@@ -428,5 +428,5 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 下面是分割线
 
 ---
-***
+
 ![pic](image/1.jpg)
