@@ -407,3 +407,26 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 ## License
 
 [MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+
+# 吴新有
+
+
+| name | age |
+|------|-----|
+|wuxy  |26   |
+
+* 窗前明月光
+- 疑是地上霜
+
+# **这是加粗的标题一**
+## *这是斜体的标题二*
+### ***这是斜体加粗的标题3***
+#### ~~这是删除线的标题4~~
+
+>this is a reference
+
+下面是分割线
+
+---
+***
+![pic](image/1.jpg)
