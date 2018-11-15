@@ -430,3 +430,5 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 ---
 
 ![pic](image/1.jpg)
+
+[wuxiny](https://wuxinyou.github.io)
