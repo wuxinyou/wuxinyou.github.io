@@ -11,90 +11,97 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+我是一个程序员，也是一个机器人工程师，热爱哲学，热爱数学，向往自由。
 
-就职于阿里巴巴集团天猫事业部，前端开发工程师，花名川轼。
-
-主要兴趣集中在前端开发，大前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。
-
-热爱美好的事物，热爱摇滚乐，组过乐队，卖过唱。
-
-很喜欢崔健的歌词：现实像块石头，精神像个蛋，石头虽然坚硬，可蛋里才是生命。
-
-还有，学习是一个非常愉快的过程。共同加油！
-
-* 2016.6.30 入职阿里巴巴天猫事业部
-* 2016.6 毕业于西安交通大学 软件工程硕士
-* 2015.12 获得2014-2015学年二等奖学金
-* 2015.7-2015.8 联想服务，前端开发工程师（实习生）
-* 2013.6 毕业于西安交通大学 理学院
-* 2001 获得西航四校总成绩年级排名第八名
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
-* [Twitter](https://twitter.com/gaohaoyang126)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+* GitHub：[wuxinyou](https://github.com/wuxinyou)
+* GitHub：[wuxyBlockChain](https://github.com/wuxyBlockChain)
+* email：wuxy_od@163.com
+
 
 ## 关于本站
 
-**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+一直想做一个技术博客，可以记录自己的技术开发历程，收录一些有用的文章，而不至于每次遇到相同的问题时，总是似曾相识，却无从下手。本博客主要记录我经历的和感兴趣的技术文章，也包含一些行业应用和随笔。本站本着内容广泛，技术文档可靠，可读性强，检索方便的宗旨，建立一个内容详实的技术博客。
 
-~欢迎使用~
+本站收录的结构和内容主要参考的是我常用的浏览器的收藏夹，CSDN上的知识
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)。
+### 声明
 
-### Update Log
+- 本站主要作为我自己的学习使用，也欢迎读者转载，交流，转载时最好注明出处。
+- 本站大部分是收录其他人的文章，一般我都会注明出处，如有侵权，请联系我。
 
-*2017.2.28*
+### 本站结构框架
 
-- `[^]` 修复目录滚动 bug [#22](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/22), [#48](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/48)
+本站主要分为以下几个大类，大类下面分为不同的标签，也可以理解为子类，在没个大类分栏里都有一个[收集]的标签，用于收录原始文章的连接。结构框架大致如下。
 
-*2016.6.20*
 
-* `[+]` 在文章页中添加上一篇和下一篇文章链接。
-* `[^]` 修改 font-family 顺序，避免微软雅黑将单引号解析为全角。
-* `[^]` 修复标签云算法中被除数为零的 bug。[#26](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/26), [#28](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/28), [#30](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/30)
+* 嵌入式开发
+  - stm32
+  - 树莓派
+* Linux
+  - Linux 命令
+  - ubuntu
+* 编程语言
+  - c++
+  - c#
+  - python
+* 数据结构和算法
+  - 数据结构
+  - 排序算法
+  - 查找算法
+  - 最佳路劲
+  - 卡尔曼
+* GUI/算法框架
+  - MFC
+  - QT
+  - WPF
+  - Eigen
+  - SLAM
+* 计算机视觉/图像学
+  - openCV
+  - openGL
+* 移动开发
+  - Android
+  - H5
+* web开发
+  - 服务器
+  - ssh
+  - ftp
+* 开发软件使用
+  - keil
+  - visual studio
+  - Altium
+* 开发工具使用
+  - CMake
+  - git
+  - vim
+  - gcc
+* 数据库
+  - SOL
+  - MySQL
+  - Sqlite
+* 电气电子
+  - 电源设计
+  - 无线
+  - 接口
+  - 驱动（主要是电机驱动）
+  - 数显
+* 数学（纯原理性的文章）
+* 区块链（不在本站收录）
+* 随笔（主要由wuxy自己写的随笔小记，可能涉及的范围很广，也可能就是一两句话）
+* 行业应用（主要收录行业应用方向，不设计底层技术，因为技术可以应用在众多行业）
+  - 医疗电子
+  - 可穿戴
+  - 智能家居
+* 学习平台（主要收录各个学习平台主页及其说明）
+* 其他
 
-*2016.5.11 v2.0.1*
+说明：以上的大分类和子分类仅仅是作为分类参考。随着本站日益丰富，分类可能会扩展，或者合并。该分类也可以作为网盘资料分类的参考，只是网盘资料相对更加复杂。
 
-* `[^]` 优化代码，将页面中的大段评论相关代码抽离出来，放入`comments.html`
-* `[+]` 添加百度统计和Google分析代码，在`_config.yml`中配置相关参数即可
-* `[+]` 更新文档，添加博客主题使用方法，便于上手
-* `[+]` 添加了`favicon.ico`
-* `[^]` 修复 bug，目录太长时，滚动到最底部时隐藏到footer下面。修复后长目录在滚动到底部时使用`position:absolute`
-* `[^]` 修改目录区的滚动条样式（仅针对`webkit`内核浏览器）
-* `[^]` 修改 demo 页中 disqus 评论区 a 标签的颜色 bug，修改 blockqoute 中 p 标签的 margin
-* `[+]` 添加不蒜子计数功能，在footer上显示访问量
-* `[+]` 添加回到顶部功能
 
-*2016.4.27 v2.0.0*
 
-* `[^]` 基于 jekyll 3.1.2 重构了所有代码
-* `[+]` 主页添加了摘要，在正文中使用4个换行符来分割，可在`_config.yml`中修改
-* `[+]` 主页添加了近期文章、分类列表和标签云
-* `[+]` 主页导航区做了视觉优化，阴影效果
-* `[+]` 增加了归档、标签和分类页面
-* `[+]` 增加了收藏页面
-* `[+]` 评论插件可以选择 disqus 或 多说，直接在`_config.yml`中修改
-* `[+]` 适配移动端
-* `[+]` 页面滚动时，文章目录固定在右侧
-* `[+]` 页面内容较少时，固定 footer 在页面底部
-* `[^]` 使用 GitHub 风格的代码高亮写法，即\`\`\`的写法，去除`highlight.js`代码高亮插件的使用
-* `[^]` 使用 Masonry 重写了 Demo 页中的瀑布流布局，响应式交互体验更好
-* `[-]` 去除了 jQuery 和 BootStrap，使得加载速度更快
-
-* 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/)
-* 2015.3-2015.4 完成了这个博客主题的第一版。
-
-## 友情链接
-
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
 
 ## Comments
 
