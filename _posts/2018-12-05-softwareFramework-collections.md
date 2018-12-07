@@ -10,7 +10,7 @@ author: wuxy
 * content
 {:toc}
 
-本文收录一些常用软件框架的资料汇总。常用的框架有：ROS,SLAM,MFC,WPF,
+本文收录一些常用软件框架的资料汇总。常用的框架有：ROS,SLAM,MFC,WPF,Qt,OpenGL,OpenCV等。
 
 ## ROS
 

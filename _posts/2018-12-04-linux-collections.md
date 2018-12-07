@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "liunx-收录汇总"
+title:  "linux-收录汇总"
 date:   2018-12-04 16:34:54
-categories: liunx
+categories: linux
 tags: 收录汇总
 author: wuxy
 ---

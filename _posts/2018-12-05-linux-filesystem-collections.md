@@ -2,8 +2,8 @@
 layout: post
 title:  "liunx文件系统-收录"
 date:   2018-12-04 16:34:54
-categories: liunx
-tags: 收录 liunx文件系统
+categories: linux
+tags: 收录 linux文件系统
 author: wuxy
 ---
 
