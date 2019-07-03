@@ -50,11 +50,11 @@
   - QT
   - WPF
   - Eigen
+  - ROS
   - SLAM
-* 计算机视觉/图像学
   - openCV
   - openGL
-* 移动开发
+* 移动web开发
   - Android
   - H5
 * web开发
