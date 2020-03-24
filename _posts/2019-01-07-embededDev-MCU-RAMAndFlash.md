@@ -189,3 +189,4 @@ Flash ROM 是利用浮置栅上的电容存储电荷来保存信息，因为浮�
 - [STM32如何查看Flash和RAM使用空间以及如何压缩RAM的使用空间](https://blog.csdn.net/jdsnpgxj/article/details/78605341)
 - [STM32中的程序在RAM还是FLASH里运行？](https://blog.csdn.net/yangkuiwu/article/details/78219995)
 - [Keil 中 Program Size: Code RO-data RW-data ZI-data 所代表的意思](https://www.cnblogs.com/xidongs/p/5771798.html)
+- https://blog.csdn.net/gmq_syy/article/details/82220158 ：stm32内存分配（全解释详细），亲测，确实很详细。

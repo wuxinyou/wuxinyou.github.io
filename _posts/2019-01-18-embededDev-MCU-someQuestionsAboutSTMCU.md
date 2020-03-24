@@ -26,3 +26,8 @@ author: wuxy
 - 通用定时器(T2~T5)都有哪些功能，如何配置？
 - 以T3为例，T3有4个独立的通道，为什么中断却只有一个？
 - 定时器在不同功能时，中断时怎么工作的？
+
+## printf重映射
+大概有两种方法，无论是那种方法，都务必USART_Configuration()，即配置串口输出。
+- https://blog.csdn.net/qq_29344757/article/details/75363639 ： STM32的printf函数重定向，如果找不到USART_SendChar（）函数，就请用USART1->DR = (u8) ch;另外如果是C函数在.CPP文件中，务必包含在extren C内。亲测有效。
+- https://blog.csdn.net/liuxiuqi19860119/article/details/84678634 ： STM32-printf重映射串口，没试过，但是看过很多源码使用这种方法。

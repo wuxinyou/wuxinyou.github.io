@@ -30,6 +30,9 @@ author: wuxy
 - [ESP8266 Arduino Core ](https://arduino-esp8266.readthedocs.io/en/latest/):如果用Arduino IDE开发NodeMcu，此资料基本足够了。
 - [对应库函数说明](https://www.arduino.cc/en/Reference/WiFi)
 
+## esp8266-esp-01-with-arduino
+- https://create.arduino.cc/projecthub/ROBINTHOMAS/programming-esp8266-esp-01-with-arduino-011389： programming-esp8266-esp-01-with-arduino-011389
+
 
 ## NodeMCU官方资料
 

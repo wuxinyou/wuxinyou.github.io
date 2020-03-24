@@ -282,7 +282,7 @@ EOSIO_ABI(loveoffering,(version)(addproject)(offerlove)(transfer)(modifyproj))
 
 值得注意的是action和结构体前面的注释说明是必须的，即 "/// @abi table"和"/// @abi action",分别用于说明是table和action,如果不添加该注释，那么在abi文件中就找不到table和action.
 
-## 前端开发
+### 前端开发
 
 本实例的前端UI采用react架构，react仅仅是一个UI架构，dapp开发可以不使用react，但是node和eosjs是必须的。react的基本使用可以参考：[visual studio code + react 开发环境搭建](https://www.jianshu.com/p/ec7c2bab16cc)。
 
